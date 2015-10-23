@@ -1,4 +1,4 @@
-require "api/consumer/version"
+require 'api/consumer/version'
 
 module API
   module Consumer
